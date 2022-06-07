@@ -1,0 +1,29 @@
+{
+  "name": "longue404-starter",
+  "version": "1.0.0",
+  "description": "This is a starter file for CAMP 404 Advance React JS Class Course",
+  "main": "index.js",
+  "scripts": {
+    "startDev": "npx nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukacode/Longue404-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukacode/Longue404-starter/issues"
+  },
+  "homepage": "https://github.com/sukacode/Longue404-starter#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
